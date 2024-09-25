@@ -48,7 +48,9 @@
   </a>
    <a href="https://codeforces.com/profile/YoustinaM" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1f8acb&logoColor=white&labelColor=&style=flat" height="35" alt="codeforces logo" />
-</a>
+  </a>
+  <a href="https://youstinamitsho.itch.io" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch.io&label=&color=fa5c5c&logoColor=white&labelColor=&style=flat" height="35" alt="itch.io logo" />
   </a>
 </div>
 

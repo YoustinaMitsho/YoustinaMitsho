@@ -47,7 +47,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
    <a href="https://codeforces.com/profile/YoustinaM" target="_blank">
-    <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281fmessage=Codeforces&logo=Codeforces&label=&color=white&logoColor=black&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1f8acb&logoColor=white&labelColor=&style=flat" height="35" alt="codeforces logo" />
+</a>
   </a>
 </div>
 

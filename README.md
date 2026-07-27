@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoustinaMitsho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoustinaMitsho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
 <div align="right">
   <img height="150" src="https://yt3.googleusercontent.com/2p66wys9GqxDd9lqc9ecqq_S2IYIZ8THEOLOOrSeXt5_1fYSTcC8jsPwx-28kfl2dGKtTnvmYRk=s160-c-k-c0x00ffffff-no-rj" alt="profile avatar" />
 </div>

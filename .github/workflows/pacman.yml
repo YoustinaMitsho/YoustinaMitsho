@@ -1,8 +1,7 @@
-name: Generate Pacman Contribution Graph
+name: Generate Galaga Contribution Game
 
 on:
   schedule:
-    # Runs automatically every 12 hours (at 00:00 and 12:00 UTC)
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -16,8 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Pacman SVG
-        uses: abhisheknaiidu/pacman-contribution-graph@master
+      - name: Generate Galaga SVG
+        uses: Mayar820/galaga-contribution-game@main
         with:
           github_user_name: YoustinaMitsho
 

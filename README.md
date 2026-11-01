@@ -73,3 +73,15 @@ A Cairo-based game developer building multiplayer systems, VR tooling, and small
 <div align="center">
   <sub>✨ Explore the full interactive catalog on <a href="https://youstinamitsho.github.io/Portfolio/"><b>Youstina.dev</b></a></sub>
 </div>
+
+---
+
+<div align="center">
+  <h2>🕹️ Profile Arcade: Tetris</h2>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoustinaMitsho/YoustinaMitsho/output/tetris-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoustinaMitsho/YoustinaMitsho/output/tetris-contribution-graph.svg">
+    <img alt="Tetris contribution graph" src="https://raw.githubusercontent.com/YoustinaMitsho/YoustinaMitsho/output/tetris-contribution-graph.svg">
+  </picture>
+</div>
